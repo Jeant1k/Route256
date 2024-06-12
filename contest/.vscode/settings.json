@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        ".fantomasignore": "ignore",
+        "*.applescript": "shellscript",
+        "iostream": "cpp",
+        "unordered_map": "cpp",
+        "algorithm": "cpp",
+        "vector": "cpp",
+        "cmath": "cpp",
+        "ostream": "cpp"
+    }
+}

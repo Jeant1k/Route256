@@ -1,0 +1,10 @@
+{
+    "dir": "root",
+    "files": ["file"],
+    "folders": [
+        {
+            "dir": "dir",
+            "files": ["file.hack", "file"]
+        }
+    ]
+}

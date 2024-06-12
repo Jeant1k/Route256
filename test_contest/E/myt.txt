@@ -1,0 +1,19 @@
+{
+    "dir": "root",
+    "files": ["ya.hack"],
+    "folders": [
+        {
+            "dir": "dir",
+            "files": ["file", "file"]
+        },
+        {
+            "dir": "dir",
+            "folders": [
+                {
+                    "dir": "dir",
+                    "files": ["file"]
+                }
+            ]
+        }
+    ]
+}
